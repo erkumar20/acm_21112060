@@ -1,6 +1,4 @@
-Certainly! Here's a rephrased version of the provided C++ code with some adjustments for clarity and readability:
 
-```cpp
 #include <bits/stdc++.h>
 #include "parser.h"
 
